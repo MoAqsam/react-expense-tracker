@@ -1,6 +1,6 @@
 ## Expense Tracker
 
-This is a React app that allows you to track your expenses.
+This is a React app that allows you to track your expenses. UI is still under development.
 
 https://moaqsam.github.io/react-expense-tracker/
 
