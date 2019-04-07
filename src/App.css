@@ -24,18 +24,19 @@ header {
 */
 table {
     min-width: 100%;
-    border: 1px solid black;
     margin: 0 auto;
 }
 tr,td {
     height: 10px;
 }
 table th {
-    background:black;
+    background:#1976D2;
     color:white;
+    padding: 10px 0px;
 }
-table tr:nth-child(odd){
-    background-color: #eee;
+table tr:nth-child(even){
+    background-color: #1976D2;
+    color:white;
 }
 /* 
     Input
@@ -47,12 +48,10 @@ table tr:nth-child(odd){
     margin-bottom: 20px;
     width: 60%;
     padding: 20px ;
-    background: #7B1FA2;
+    background: #1976D2;
     color:white;
 }
-input:focus {
-    border: 0.5px solid #E040FB;
-}
+
 input {
     width: 100%;
     padding: 10px;
