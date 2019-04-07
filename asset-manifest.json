@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-expense-tracker/static/css/main.19d09dbb.chunk.css",
+  "main.css": "/react-expense-tracker/static/css/main.abd012b4.chunk.css",
   "main.js": "/react-expense-tracker/static/js/main.b93e02f7.chunk.js",
   "main.js.map": "/react-expense-tracker/static/js/main.b93e02f7.chunk.js.map",
   "runtime~main.js": "/react-expense-tracker/static/js/runtime~main.a1159160.js",
@@ -7,7 +7,7 @@
   "static/js/2.1d59d780.chunk.js": "/react-expense-tracker/static/js/2.1d59d780.chunk.js",
   "static/js/2.1d59d780.chunk.js.map": "/react-expense-tracker/static/js/2.1d59d780.chunk.js.map",
   "index.html": "/react-expense-tracker/index.html",
-  "precache-manifest.60ddfd59cddd870fee2d251663e73f56.js": "/react-expense-tracker/precache-manifest.60ddfd59cddd870fee2d251663e73f56.js",
+  "precache-manifest.f46722882625084d40ef9b6c11afc598.js": "/react-expense-tracker/precache-manifest.f46722882625084d40ef9b6c11afc598.js",
   "service-worker.js": "/react-expense-tracker/service-worker.js",
-  "static/css/main.19d09dbb.chunk.css.map": "/react-expense-tracker/static/css/main.19d09dbb.chunk.css.map"
+  "static/css/main.abd012b4.chunk.css.map": "/react-expense-tracker/static/css/main.abd012b4.chunk.css.map"
 }
